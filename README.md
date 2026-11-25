@@ -39,3 +39,23 @@ A modern and responsive travel website built with HTML, CSS, and JavaScript.
 🔗 [Live Demo](https://parsaganji15-ai.github.io/VOYAGE/)
 
 📂 [View Repository](https://github.com/parsaganji15-ai/VOYAGE)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=parsaganji15-ai&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsaganji15-ai&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
