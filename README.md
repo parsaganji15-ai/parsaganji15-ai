@@ -59,3 +59,17 @@ A modern and responsive travel website built with HTML, CSS, and JavaScript.
     alt="Most Used Languages"
   />
 </p>
+
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="[YOUR_INSTAGRAM_PROFILE_URL](https://www.instagram.com/parsa.ganji.dev?dmpr=MW54ZzJoZmFqaW9nMw%3D%3D&utm_source=qr)">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="[YOUR_WHATSAPP_LINK](https://wa.me/989190946269)">
+    <img src="https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Business" />
+  </a>
+</p>
