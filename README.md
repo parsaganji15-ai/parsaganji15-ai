@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Parsa Ganji 👋</h1>
 
-<!--
-**parsaganji15-ai/parsaganji15-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Junior Front-End Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Passionate about building modern, responsive, and interactive websites.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Computer Engineering Student
+- 🌱 Currently improving my Front-End Development skills
+- 💻 Focused on HTML, CSS, and JavaScript
+- 🚀 Building projects to improve my development skills
+- 🎯 Interested in creating clean and user-friendly web experiences
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+### 🚀 My Projects
+
+#### 🌍 VOYAGE — Travel Website
+
+A modern and responsive travel website built with HTML, CSS, and JavaScript.
+
+- Responsive design for desktop, tablet, and mobile
+- Interactive destination filters and modals
+- Travel planner and search functionality
+
+🔗 [Live Demo](https://parsaganji15-ai.github.io/VOYAGE/)
+
+📂 [View Repository](https://github.com/parsaganji15-ai/VOYAGE)
